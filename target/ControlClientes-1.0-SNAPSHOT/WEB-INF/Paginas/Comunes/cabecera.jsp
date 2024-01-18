@@ -1,4 +1,4 @@
-<hearder id="main-header" class="py-2 bg-primary text-dark"> 
+<header id="main-header" class="py-2 bg-info text-white">
     <div class="container">
         <div class="row">
             <div class="col-md-6">
@@ -6,5 +6,5 @@
             </div>
         </div>
     </div>
-</hearder>
+</header>
  
