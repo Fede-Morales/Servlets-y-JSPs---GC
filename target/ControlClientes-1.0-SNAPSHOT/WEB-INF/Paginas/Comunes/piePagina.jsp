@@ -4,7 +4,7 @@
     <div class="container">
         <div class="col">
             <p class="lead text-center">
-                Copyright &copy: GrupoConsiti.com.es
+                Copyright &copy: FedericoMorales
             </p>
         </div>
     </div>
